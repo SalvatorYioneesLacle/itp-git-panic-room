@@ -9,11 +9,14 @@ Gute Commit-Messages
 - Rename variables
 - Update Calculator
 - Handle edge cases
-- Add login validation 
+
+Add login validation 
 --> Beschreibt, was hinzugefügt wurde
-- Fix issue #23 
+
+Fix issue #23 
 --> Beschreibt einen behobenen Fehler aus einer Fehlerliste
-- Refactor Calculator for readability 
+
+Refactor Calculator for readability 
 --> Beschreibt, was am Code wo geändert wurde
 
 Schlechte Commit-Messages
@@ -27,8 +30,10 @@ Schlechte Commit-Messages
 - Cleanup
 - Temporary fix
 - Refactor code
-- Update --> Beschreibt nicht, was geupdated wurde
-- Adjust logic -- Beschreibt nicht die veränderte Logik
+
+Update --> Beschreibt nicht, was geupdated wurde
+
+Adjust logic -- Beschreibt nicht die veränderte Logik
 
 
 
