@@ -39,7 +39,10 @@ Welche Datei ist besonders relevant und warum?
 Mit welche(n) Befehlen kannst du dies rausfinden? 
 (Antwort: Datei, Commit-ID der relevanten Änderung, Commit Message, betroffene Code-Stelle, warum ist diese Stelle wichtig?)
 
-- Calculator.java, 50da5b1, Update, Zeilen 9 - 12,
+- Calculator.java, 50da5b1, Update, Zeilen 9 - 12, Der Bug wird dort eingefügt
 
 ## #5: Vergleich vor und nach der Änderung
 Was ist der Unterschied im Code, bevor und nachdem das Problem entstanden ist? Mit welchem Befehl kannst du das rausfinden? 
+
+- Git diff \
+Vor der Änderung stand im Programm "return a/b", nach der Änderung "return a/0"
